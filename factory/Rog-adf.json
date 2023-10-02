@@ -1,0 +1,9 @@
+{
+	"name": "Rog-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "104c9583-8727-40d4-8f16-3c4bdfa8f123",
+		"tenantId": "ba9fd72a-3052-4576-91fe-e4a2df793c52"
+	}
+}
